@@ -1,0 +1,8 @@
+name: VindereCraft-Chat
+version: '${project.version}'
+main: vinderecraft.chat.Chat
+api-version: 1.18
+prefix: VC CHAT
+depend: [ VindereCraft-Core ]
+authors: [ SpriteV1 ]
+description: Plugin for handling chat-related functions on official VindereCraft servers.
